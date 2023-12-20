@@ -1,0 +1,25 @@
+body {
+    background-color: #89D6D9;
+    margin: 0;
+}
+#box-one {
+    width: 960px;
+    padding: 20px;
+    background-color: #FFF;
+    margin: auto;
+}
+table, th, td {
+    border: 1px solid #CCC;
+    background-color: #F5F4F2;
+    border-collapse: collapse;
+    padding: 3px;
+}
+th {
+    background-color: #ECE7D7;
+}
+#box-two {
+    padding: 10px;
+    background-color: #DDD;
+    border-radius: 10px;
+    margin: 20px 0; 
+}
